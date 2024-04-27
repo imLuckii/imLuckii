@@ -6,7 +6,7 @@
 <p align="left">
 <a href="https://twitter.com/imlucki_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imlucki_" height="30" width="40" /></a>
 <a href="https://instagram.com/imluck.i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imluck.i" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/lumkii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lumkii" height="30" width="40" /></a>
+<a href="https://youtube.com/@lumkii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lumkii" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/invite/z2UPWuQG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/z2UPWuQG" height="30" width="40" /></a>
 </p>
 
