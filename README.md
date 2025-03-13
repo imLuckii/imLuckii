@@ -1,4 +1,4 @@
-<h1 align="center">yo, I'm lucky.</h1>
+<h1 align="center">hi, I'm lucky.</h1>
 
 - Just a random guy that likes to do things with PHP, more specifically PocketMine-MP.
 - I'm working on [LurecNetwork](https://discord.lurec.net)
