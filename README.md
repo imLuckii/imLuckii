@@ -1,6 +1,6 @@
-<h1 align="center">hi, im lucky.</h1>
+<h1 align="center">hi, i'm lucky.</h1>
 
-<p align="center">a mentally insane guy (pretty obvious since my main language is PHP) that likes to do things with PHP, more specifically PocketMine-MP.</p>
+<p align="center">a slightly unhinged guy who loves building stuff with PHP — especially PocketMine-MP.</p>
 
 ---
 
@@ -20,6 +20,7 @@
 ---
 
 ## 💻 Tech Stack
+
 ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -33,7 +34,6 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <picture>
     <source srcset="https://raw.githubusercontent.com/imLuckii/github-stats/master/generated/overview.svg#gh-dark-mode-only">
